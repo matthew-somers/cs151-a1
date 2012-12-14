@@ -1,0 +1,10 @@
+Submission Summary
+Please print out and retain a copy as proof of submission.
+Student ID:	007045610
+Name of submission:	Hw1
+Due date:	Sep 18
+Date your machine:	Sep 18
+Date this server:	Sep 18
+hw1.zip size:	7208 bytes
+The md5 certificate of receipt of your work is:
+19:27:59 0d27afa1beb63fa1c39d8d533b901805 

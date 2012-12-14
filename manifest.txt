@@ -1,0 +1,12 @@
+E,0,BIFF,Qu
+E,1,Sam
+E,3,Royy,Retyys
+E,4,Kilja,Retyys
+E,5,CHARLIE,Qu
+E,6,Kyle,Cool Kids
+E,7,Larry,Cool Kids
+E,8,Steve,Cool Kids
+E,9,Mary,Cool Kids
+E,10,Amy,Cool Kids
+E,11,Dean,Cool Kids
+E,17,Dan,Cool Kids
